@@ -1,4 +1,3 @@
-// beacon
 const enter1 = (profile) => ({
   type: "flex",
     altText: "Special Deal! For You",
