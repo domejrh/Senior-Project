@@ -2,7 +2,6 @@ const functions = require("firebase-functions");
 const admin = require("firebase-admin");
 const axios = require('axios');
 
-// 2. Fill in your CHANNEL ACCESS TOKEN
 const CHANNEL_ACCESS_TOKEN = "//YOUR CHANNEL_ACCESS_TOKEN";
 
 const LINE_MESSAGING_API = "https://api.line.me/v2/bot";
